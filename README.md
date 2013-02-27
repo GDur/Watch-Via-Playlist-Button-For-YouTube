@@ -28,15 +28,16 @@ Will add a "Watch Via Playlist"-button to YouTube's website.
 </ol>
 <br>
 <a id="install" href="#install" style="color:#3d7fa1;">How to install the "Watch Via Playlist"-Button</a><br>
-
-<ol>Firefox
+Firefox
+<ol>
 	<li>Download and install the Greasemonkey addon: <a href="https://addons.mozilla.org/de/firefox/addon/greasemonkey/" style="color:#3d7fa1;">Greasemonkey</a></li>
 	<li>Restart Firefox</li>
 	<li>Press the following link: <a href="https://github.com/GDur/Watch-Via-Playlist-Button-For-YouTube/raw/master/WVP_button.user.js" style="color:#3d7fa1;">Download Script</a></li>
 	<li>Press the Install button</li>
 	<li>You can use the following link in order to test the script: <a href="http://www.youtube.com/watch?v=eXqPYte8tvc" style="color:#3d7fa1;">Test</a></li>
 </ol>
-<ol>Chrome
+Chrome
+<ol>
 	<li>Navigate to the extensions in your browser: <a href="chrome://extensions/" style="color:#3d7fa1;">chrome://extensions/</a>
 	<li>Press the following link: <a href="https://github.com/GDur/Watch-Via-Playlist-Button-For-YouTube/raw/master/WVP_button.user.js" style="color:#3d7fa1;">Download Script</a></li>
 	<li>Navigate to the file and drag and drop it into the extensions tab of step one.</li>
