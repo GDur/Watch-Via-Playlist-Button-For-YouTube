@@ -4,7 +4,7 @@ Will add a "Watch Via Playlist"-button to YouTube's website.
 ![ScreenShot](https://github.com/GDur/Watch-Via-Playlist-Button-For-YouTube/raw/master/youtubescripts.png)
 <br><a href="#" style="color:#3d7fa1;">Index</a>
 <ol>
-	<li><a href="#what" style="color:#3d7fa1;">What is "Watch Via Playlist"-Button</a></li>
+	<li><a href="#what" style="color:#3d7fa1;">What is the "Watch Via Playlist"-Button</a></li>
 	<li><a href="#usage" style="color:#3d7fa1;">How to use the "Watch Via Playlist"-Button</a></li>
 	<li><a href="#install" style="color:#3d7fa1;">How to install the "Watch Via Playlist"-Button</a></li>
 </ol>
@@ -15,7 +15,7 @@ Will add a "Watch Via Playlist"-button to YouTube's website.
 	It will allow you to watch the video via the playlist with a single click.<br>
 	Let's consider the following scenario in order to explain what the button can do.<br>
 	<ol>
-		<li>You watch a YouTube video and you press the button  when you are 4 minutes into the video.</li>
+		<li>You watch a YouTube video and you press the button when you are 4 minutes into the video.</li>
 		<li>The button will open the same video in the playlist and start the video at the 4th minute.</li>
 	</ol>
 	<br>
