@@ -2,4 +2,4 @@
 =========================================
 
 Will add a "Watch Via Playlist"-button to YouTube's website.
-![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://github.com/GDur/Watch-Via-Playlist-Button-For-YouTube/raw/master/youtubescripts.png)
